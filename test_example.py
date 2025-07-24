@@ -41,3 +41,4 @@ def test_type():
     result = get_sort_list('Яша, Саша, Маша, Даша')
     assert isinstance(result, int)
 
+

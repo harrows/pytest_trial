@@ -12,3 +12,4 @@ def test_counter():
     data = [False, 1.0, "some_string", 3, True, 1, [], False]
     integers = integers_counter(data)
     assert integers == 2
+
